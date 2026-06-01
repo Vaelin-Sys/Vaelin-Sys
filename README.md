@@ -26,7 +26,7 @@ Experienced software and systems engineer specializing in safety-critical system
 
 * **Commit Verification:** All production code commits are cryptographically signed using a next-generation hybrid keypair to ensure strict chain-of-custody integrity.
 * **Key Architecture:** ECC (Ed25519) combined with Post-Quantum Cryptography (Kyber/ML-KEM-768).
-* **Key Fingerprint:** `FC47DA11A7CF9705F70DDC489D191ADA35D7A3F5`
+* **Key Fingerprint:** [`FC47DA11A7CF9705F70DDC489D191ADA35D7A3F5`](https://github.com) *(Click to download public GPG key)*
 
 ---
 
