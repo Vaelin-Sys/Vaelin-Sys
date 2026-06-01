@@ -22,20 +22,11 @@ Experienced software and systems engineer specializing in safety-critical system
 
 ---
 
-### GitHub Activity
-
-**Development Metrics**  
-[![Vaelin-Sys's GitHub stats](https://vercel.app)](https://github.com)
-[![Top Langs](https://vercel.app)](https://github.com)
-
----
-
 ### Cryptographic Identity & Security Focus
 
 * **Commit Verification:** All production code commits are cryptographically signed using a next-generation hybrid keypair to ensure strict chain-of-custody integrity.
 * **Key Architecture:** ECC (Ed25519) combined with Post-Quantum Cryptography (Kyber/ML-KEM-768).
 * **Key Fingerprint:** `FC47DA11A7CF9705F70DDC489D191ADA35D7A3F5`
-
 
 ---
 
